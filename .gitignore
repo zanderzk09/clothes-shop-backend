@@ -1,9 +1,6 @@
 # Dependencias de Node.js
 node_modules/
 
-# Archivos de configuración sensibles
-.env
-
 # Archivos de compilación de TypeScript
 *.tsbuildinfo
 dist/
@@ -19,5 +16,7 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Archivos de configuración sensibles
+.env
 
 
